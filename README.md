@@ -1,6 +1,5 @@
 <p align="center">
   <img src="banner-sample.png">
-  <img src="[https://img.icons8.com/?size=512&id=kTuxVYRKeKEY&format=png](https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/1200px-Starbucks_Corporation_Logo_2011.svg.png)" width="99">
 </p>
 <h1 align="center">STARBUCKS THEMED WEBSITE</h1>
 
