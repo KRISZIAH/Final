@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://img.icons8.com/?size=512&id=55494&format=png" width="99">
-  <img src="https://img.icons8.com/?size=512&id=kTuxVYRKeKEY&format=png" width="99">
+  <img src=""C:\Users\krisziah vinoya\Downloads\banner-sample.png"" width="99">
+  <img src="https:/![banner-sample](https://github.com/KRISZIAH/Final/assets/155798339/3e2e0d4a-93e7-41cf-9854-738dd6bfeddb)
+/img.icons8.com/?size=512&id=kTuxVYRKeKEY&format=png" width="99">
 </p>
 <h1 align="center">STARBUCKS THEMED WEBSITE</h1>
 
