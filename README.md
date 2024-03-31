@@ -1,19 +1,23 @@
 <p align="center">
-  <img src=""C:\Users\krisziah vinoya\Downloads\banner-sample.png"" width="99">
-  <img src="https:/![banner-sample](https://github.com/KRISZIAH/Final/assets/155798339/3e2e0d4a-93e7-41cf-9854-738dd6bfeddb)
-/img.icons8.com/?size=512&id=kTuxVYRKeKEY&format=png" width="99">
+  <img src="banner-sample.png">
+  <img src="[https://img.icons8.com/?size=512&id=kTuxVYRKeKEY&format=png](https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/1200px-Starbucks_Corporation_Logo_2011.svg.png)" width="99">
 </p>
 <h1 align="center">STARBUCKS THEMED WEBSITE</h1>
+
+<p align="center">Welcome to Starbucks Online, your digital destination for all things coffee!</p>
+
+
+***
 
 ## 📍 Overview
 
 ***Abstract***
 
-Readme-ai is a developer tool that auto-generates README.md files using a combination of data extraction and generative ai. Simply provide a repository URL or local path to your codebase and a well-structured and detailed README file will be generated for you.
+Starbucks Themed website is a web-based platform that recreates the inviting atmosphere of a Starbucks café in a virtual space.
 
 **Visit the website:** [pervolarakis.github.io/starbucks-voucher/](pervolarakis.github.io/starbucks-voucher/)
 
-## Screenshots/Demo
+## 👾 DemoScreenshots/Demo
 
 <p align="center">
     <img src="./apply.png">
@@ -24,4 +28,8 @@ Readme-ai is a developer tool that auto-generates README.md files using a combin
 <p align="center">
     <img src="./admin.png">
 </p>
+
+## 🧩 Features
+
+
 
