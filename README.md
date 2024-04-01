@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png">
+  <img src="logofinal.png">
   <img src="banner-starbucks.png">
 </p>
 
