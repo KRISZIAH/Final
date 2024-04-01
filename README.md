@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">STARBUCKS THEMED WEBSITE</h1>
 
-<p align="center">Welcome to Starbucks Online, your digital destination for all things coffee!</p>
+<p align="center">Welcome to Starbucks Online, your digital destination for all things coffee! 𓍢ִ໋☕️✧˚ ༘ ⋆</p>
 
 
 ***
