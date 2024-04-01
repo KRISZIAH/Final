@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="banner-sample.png">
+  <img src="logo.png">
+  <img src="banner-starbucks.png">
 </p>
-<h1 align="center">STARBUCKS RESPONSIVE WEBSITE</h1>
+
 
 <p align="center">Welcome to Starbucks Online, your digital destination for all things coffee! 𓍢ִ໋☕️✧˚ ༘ ⋆</p>
 
