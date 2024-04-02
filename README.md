@@ -31,5 +31,23 @@ The "Starbucks" website project is a web-based platform that brings the cozy amb
 
 ## 🧩 Features
 
+1. Responsive Design
+      - Our website easily adapts to offer the optimal viewing experience on any device, be it a laptop, tablet, or smartphone.
+
+2. Interactive Features
+    - Each element enhances the user experience by enticing exploration and engagement, from subtle micro-interactions to amusing cascade effects.
+
+3. Integrated Navigation
+    - Well transition between sections. Every graphic takes users to a different section of the website in an easy-to-understand manner.
+
+4. Appealing Animations
+    - Well transition between sections. Every graphic takes users to a different section of the website in an easy-to-understand manner.
+
+## 📕 Authors
+
+- **Lady Diane Casilang**
+- **Patrick Belarmino**
+- **Joana Ester Reyes**
+- **Krisziah Vinoya**
 
 
